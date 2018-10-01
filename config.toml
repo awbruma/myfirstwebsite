@@ -1,0 +1,60 @@
+baseurl         = "www.awbruma.xyz"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "awb"
+  subtitle    = "uninhibited"
+
+  cover       = "img/blog-cover.jpg"
+  description = "A Developing Idea"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "AWB"
+  authorAvatar = "img/profile-picture.jpg"
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "1"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "2"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "3"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
