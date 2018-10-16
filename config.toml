@@ -1,10 +1,9 @@
-baseurl         = "www.awbruma.com"
+baseurl         = "https://www.awbruma.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
-canonifyurls    = true
 
 [params]
   title       = ""
@@ -28,34 +27,34 @@ canonifyurls    = true
 
   author = "AWB"
   authorAvatar = "img/profile-picture.jpg"
-  authorLocation = ""
+  authorLocation = "Buffalo, NY"
   authorWebsite = ""
-  authorDescription = "Describe yourself.."
+  authorDescription = "Student"
 
   pageNotFoundTitle = "under construction"
 
   #casper or caspertwo
-  singleViewStyle = "casper"
+  singleViewStyle = "caspertwo"
 
 [permalinks]
   post = "/:slug/"
 
 [[menu.main]]
-  name = "1"
+  name = "Main"
   url = "/"
   weight = 200
 
 [[menu.main]]
-  name = "2"
+  name = "1"
   url = "/tags/golang/"
   weight = 100
 
 [[menu.main]]
-  name = "3"
+  name = "2"
   url = "/categories/food/"
   weight = 99
 
 [[menu.main]]
-  name = "External"
+  name = "google"
   url = "https://google.com/"
   weight = 95
