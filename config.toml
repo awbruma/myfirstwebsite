@@ -1,4 +1,4 @@
-baseurl         = "www.awbruma.xyz"
+baseurl         = "www.awbruma.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -6,8 +6,8 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "awb"
-  subtitle    = "uninhibited"
+  title       = ""
+  subtitle    = ""
 
   cover       = "img/blog-cover.jpg"
   description = "A Developing Idea"
@@ -31,7 +31,7 @@ paginate        = 6
   authorWebsite = ""
   authorDescription = "Describe yourself.."
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "under construction"
 
   #casper or caspertwo
   singleViewStyle = "casper"
