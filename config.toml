@@ -45,16 +45,16 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "1"
+  name = "Professional"
   url = "/tags/golang/"
   weight = 100
 
 [[menu.main]]
-  name = "2"
+  name = "Photojournal"
   url = "/categories/food/"
   weight = 99
 
 [[menu.main]]
-  name = "google"
-  url = "https://google.com/"
+  name = "Podcast"
+  url = "https://www.youtube.com/channel/UCGtNt2yB8NlmQKOUcf6ve8g?view_as=subscriber"
   weight = 95
