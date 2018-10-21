@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = ""
 
   cover       = "img/blog-cover.jpg"
-  description = "A Developing Idea"
+  description = ""
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
