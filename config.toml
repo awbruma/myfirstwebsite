@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Personal Website"
+  title       = "Anthony W Bruma"
   subtitle    = ""
 
   cover       = "img/blog-cover.jpg"
