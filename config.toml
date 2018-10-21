@@ -62,4 +62,4 @@ paginate        = 6
   [[menu.main]]
     name = "Product"
     url = "/categories/product/"
-    weight = 99
+    weight = 90
