@@ -51,10 +51,15 @@ paginate        = 6
 
 [[menu.main]]
   name = "Photojournal"
-  url = "/categories/food/"
+  url = "/categories/photojournal/"
   weight = 99
 
 [[menu.main]]
   name = "Podcast"
   url = "https://www.youtube.com/channel/UCGtNt2yB8NlmQKOUcf6ve8g?view_as=subscriber"
   weight = 95
+
+  [[menu.main]]
+    name = "Product"
+    url = "/categories/product/"
+    weight = 99
