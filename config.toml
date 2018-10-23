@@ -29,7 +29,7 @@ paginate        = 6
   authorAvatar = "profile-picture.jpg"
   authorLocation = "Buffalo, NY"
   authorWebsite = ""
-  authorDescription = "Student"
+  authorDescription = ""
 
   pageNotFoundTitle = "under construction"
 
@@ -40,7 +40,7 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Main"
+  name = "Primary"
   url = "/"
   weight = 200
 
