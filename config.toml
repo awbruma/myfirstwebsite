@@ -56,7 +56,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Podcast"
-  url = "https://www.youtube.com/channel/UCGtNt2yB8NlmQKOUcf6ve8g?view_as=subscriber"
+  url = ""
   weight = 95
 
   [[menu.main]]
